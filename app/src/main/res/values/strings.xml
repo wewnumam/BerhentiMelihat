@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Berhenti Melihat</string>
+    <string name="tv_stopwatch">Stopwatch</string>
+    <string name="sub">Gek ndang!, ndadak diwoco barang</string>
+    <string name="btn_blue">Mari Kite Mulekan</string>
+    <string name="btn_green">Sepiii, GOOO!</string>
+    <string name="btn_red">Stopu-Stopu!</string>
+    <string name="time"></string>
+</resources>
